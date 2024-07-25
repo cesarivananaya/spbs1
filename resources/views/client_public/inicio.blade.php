@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Inicio</title>
+  <title>SPBS - Inicio</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -291,10 +291,10 @@
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Valores</h3>
                     <ul style="list-style: none;font-size:14px" style="font-size:14px" class="fst-italic">
-                      <li><i class="bi bi-check-circle"></i> Unmatched Quality</li>
-                      <li><i class="bi bi-check-circle"></i> Personalized Experience</li>
-                      <li><i class="bi bi-check-circle"></i> Excelence</li>
-                      <li><i class="bi bi-check-circle"></i> Naturality</li>
+                      <li><i class="bi bi-check-circle"></i> Calidad</li>
+                      <li><i class="bi bi-check-circle"></i> Experiencia Personalizada</li>
+                      <li><i class="bi bi-check-circle"></i> Excelencia</li>
+                      <li><i class="bi bi-check-circle"></i> Naturalidad</li>
                     </ul>
                     <ul style="list-style: none;">
                       <li><i class="bi bi-check-circle"></i> Calidad Inigualable</li>
