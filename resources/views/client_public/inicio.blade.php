@@ -39,6 +39,21 @@
 
 <body>
 
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-clock d-flex align-items-center ms-4"><span> Lunes a Sábado: 11AM - 23PM</span></i>
+      </div>
+
+      <div class="languages d-none d-md-flex align-items-center">
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-cente">
@@ -755,7 +770,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h2>spbs</h2>
+              <h2>SPBS</h2>
               <p>
                 C. Independencia 55, Centro <br>
                 44100 Guadalajara, Jal<br><br>
@@ -773,14 +788,14 @@
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Enlaces útiles</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="/inicio">Página principal</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="inicio#about">Nosotros</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/cat">Productos</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/admin">Administrador</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Términos de servicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Política de privacidad</a></li>
             </ul>
           </div>
 
